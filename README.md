@@ -1,7 +1,7 @@
-# MeatMentor AI
+# Meat-Brain-Mentor
 
 ## Overview
-MeatMentor AI is an open-source, AI-augmented spaced repetition and skill acquisition platform designed to replace Anki and cybernetically link humans and AI for accelerated learning. It overcomes the flaws of traditional flashcard-based SRS (Spaced Repetition Systems) by integrating sensory-motor predictive models (**saṅkhāra**) into a graph-based knowledge structure.
+Meat-Brain-Mentor is an open-source, AI-augmented spaced repetition and skill acquisition platform designed to replace Anki and cybernetically link humans and AI for accelerated learning. It overcomes the flaws of traditional flashcard-based SRS (Spaced Repetition Systems) by integrating sensory-motor predictive models (**saṅkhāra**) into a graph-based knowledge structure.
 
 ## Core Goals & Philosophy
 - **Eliminate UI Complexity** → Defaults should work for 99% of users, with customization in config files.
